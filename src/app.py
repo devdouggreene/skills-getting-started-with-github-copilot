@@ -74,6 +74,18 @@ activities = {
         "schedule": "Tuesdays, 3:30 PM - 4:45 PM",
         "max_participants": 18,
         "participants": ["grace@mergington.edu", "benjamin@mergington.edu"]
+    },
+    "Disc Golf Club": {
+        "description": "Learn disc golf techniques and compete in friendly matches",
+        "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+        "max_participants": 20,
+        "participants": ["ryan@mergington.edu", "maya@mergington.edu"]
+    },
+    "Disc Golf Tournament Team": {
+        "description": "Competitive disc golf team for regional and state tournaments",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 10,
+        "participants": ["tyler@mergington.edu"]
     }
 }
 
