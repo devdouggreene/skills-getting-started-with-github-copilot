@@ -86,6 +86,12 @@ activities = {
         "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
         "max_participants": 10,
         "participants": ["tyler@mergington.edu"]
+    },
+        "Disc Golf Strategy": {
+        "description": "Competitive disc golf team for regional and state tournaments",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 10,
+        "participants": ["tyler@mergington.edu"]
     }
 }
 
